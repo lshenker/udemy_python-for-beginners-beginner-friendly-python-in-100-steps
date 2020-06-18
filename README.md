@@ -4,5 +4,6 @@ I enrolled in this Udemy Python course to learn Python and develop skills to be 
 ### Log 
 | Date          | Hours | Completed |
 |:--------------|:----: | :-------: |
-| 06/16/2020    | 1.0   | 0%        |
+| 06/16/2020    | 1.0   | 1%        |
+| 06/17/2020    | 1.0   | 15%       |
 
