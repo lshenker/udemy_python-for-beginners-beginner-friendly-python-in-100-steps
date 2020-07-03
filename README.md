@@ -6,4 +6,4 @@ I enrolled in this Udemy Python course to learn Python and develop skills to be 
 |:--------------|:----: | :-------: |
 | 06/16/2020    | 1.0   | 1%        |
 | 06/17/2020    | 1.0   | 15%       |
-
+| 07/03/2020    | 1.0   | 25%       |
